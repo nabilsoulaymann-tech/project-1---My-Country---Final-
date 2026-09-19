@@ -1,0 +1,39 @@
+body{
+    background-image: url('cedars.png');
+background-repeat: no-repeat;
+background-size:cover;
+font-family: 'Mrs Saint Delafield'
+}
+iframe{
+    border-color: aqua;
+    border-style: dashed;
+    border-radius:20px;
+}
+
+nav ul{
+    padding:15px;
+    background-image: url(lebanon.png);
+    text-align: center;
+    border-radius: 50px;
+    
+}
+nav ul li{
+   
+    font-size: 30px;
+list-style-type: none;
+}
+nav ul li a{
+    font-family: 'Butterfly Kids';
+    color:purple;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background-color: blanchedalmond;
+    color:darkgreen
+}
+p{
+    font-size:25px;
+    background-color: aliceblue;
+    border-radius:20px;
+}
